@@ -225,7 +225,7 @@ Distribuido bajo los terminos de GPL-3.0. Ver `LICENSE.txt` para m√°s informaci√
 <!-- CONTACT -->
 ## Contacto
 
-Canros [@your_twitter](https://x.com/canrosss) - canros.mx@gmail.com
+Canros [@canrosss](https://x.com/canrosss) - canros.mx@gmail.com
 
 Enlaces del proyecto: [https://github.com/canrosss/DrSnoopy](https://github.com/canrosss/)
 
