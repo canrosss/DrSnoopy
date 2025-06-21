@@ -104,31 +104,33 @@ Por supuesto este sencillo programa no resuelve todo pero pretende facilitarte e
 
 Esta sección contiene los frameworks/libraries utilizados para el proyecto. 
 
-* [![Java][Java]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Java][Java]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Primeros pasos
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+A continuación algunos pasos para empezar a utilizar esta aplicación
 
-### Prerequisites
+### Prerequisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
+Estas son algunas cosas necesarias para utilizar un programa hecho en Java
+
+1. Verifica que cuentas con Java instalado en tu sistema
+
+* Java Development Kit (JDK) 8 o superior
+Para sistemas Linux (Debian/Ubuntu)
+  ```bash
+java-version
+  ```
+
+2. (Opcional) Instala la última versión de OpenJDK:
+```bash
+sudo apt update
+sudo apt install openjdk-21-jdk
   ```
 
 ### Installation
