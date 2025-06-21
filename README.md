@@ -12,7 +12,6 @@ Una herramienta sencilla para generar recetas medicas en PDF
 -->
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -33,7 +32,8 @@ Una herramienta sencilla para generar recetas medicas en PDF
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+
+  <a href="https://github.com/canrosss/DrSnoopy/blob/main/logo/logo4.jpeg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
