@@ -83,7 +83,7 @@ Una herramienta sencilla para generar recetas medicas en PDF
 
 
 <!-- ABOUT THE PROJECT -->
-## Acerca del Proyecto
+## 💻Acerca del Proyecto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -100,7 +100,7 @@ Por supuesto este sencillo programa no resuelve todo pero pretende facilitarte e
 
 
 
-### Construido con
+### 🧙🏻Construido con
 
 Esta sección contiene los frameworks/libraries utilizados para el proyecto. 
 
@@ -111,11 +111,11 @@ Esta sección contiene los frameworks/libraries utilizados para el proyecto.
 
 
 <!-- GETTING STARTED -->
-## Primeros pasos
+## ✈️Primeros pasos
 
 A continuación algunos pasos para empezar a utilizar esta aplicación
 
-### Prerequisitos
+### 📦Prerequisitos
 
 Estas son algunas cosas necesarias para utilizar un programa hecho en Java
 
@@ -167,18 +167,18 @@ java -jar MiPrograma.jar
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 📚Usando la aplicación
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Algunos casos de uso de como funciona [Dr Snoopy] unos screenshots dicen más que mil palabras.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Para más ejemplos, por favor dirigirse a la sección de [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## 🧭Roadmap
 
 - [x] Crear ReadMe
 - [x] Arreglar links
@@ -195,7 +195,7 @@ See the [open issues](https://github.com/canrosss/DrSnoopy/issues) for a full li
 
 
 <!-- CONTRIBUTING -->
-## Contribuciones
+## 🧑🏻‍💻Contribuciones
 
 Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirarse y crear. ¡Cualquier aporte que realices es muy bienvenido y apreciado! Si tienes una sugerencia para mejorar este proyecto, por favor haz un fork del repositorio y crea una pull request. También puedes simplemente abrir un issue con la etiqueta "enhancement" (mejora). 
 
@@ -209,7 +209,7 @@ Pasos para contribuir:
   5.  Abre una Pull Request para revisión
 
 
-### Colaboradores principales:
+### 🔥Colaboradores principales:
 
 <a href="https://github.com/canrosss/DrSnoopy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=canrosss/DrSnoopy" alt="contrib.rocks image" />
@@ -220,7 +220,7 @@ Pasos para contribuir:
 
 
 <!-- LICENSE -->
-## Licencia
+## 📜Licencia
 
 Distribuido bajo los terminos de GPL-3.0. Ver `LICENSE.txt` para más información.
 
@@ -229,7 +229,7 @@ Distribuido bajo los terminos de GPL-3.0. Ver `LICENSE.txt` para más informaci�
 
 
 <!-- CONTACT -->
-## Contacto
+## 🧑🏻‍💻Contacto
 
 Canros [@canrosss](https://x.com/canrosss) - canros.mx@gmail.com
 
