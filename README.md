@@ -138,21 +138,26 @@ sudo apt install openjdk-21-jdk
 
 _A continuación se muestra un ejemplo de cómo puedes instruir a los usuarios para instalar y configurar tu aplicación. [Dr Snoopy] no depende de servicios ni librerías externas.._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+📦 Paso 1: Clona el repositorio 
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
+git clone git@github.com:canrosss/DrSnoopy.git
+cd tu_repositorio
+```
+🛠️ Paso 2: Compila el proyecto (si no has generado aún el .jar)
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
+javac -d out src/*.java
+cd out
+jar cfe MiPrograma.jar MiClasePrincipal *.class
+```
+_Asegúrate de reemplazar MiClasePrincipal con el nombre real de tu clase con el método main()._
+
+📥 Paso 3: Ejecuta el archivo JAR
+```sh
+java -jar MiPrograma.jar
+```
+
+🛡️ (Opcional) Cambia la URL remota de Git para evitar pushes accidentales al repositorio base:
+```sh
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
    ```
