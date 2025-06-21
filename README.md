@@ -190,20 +190,21 @@ See the [open issues](https://github.com/canrosss/DrSnoopy/issues) for a full li
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuciones
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirarse y crear. ¡Cualquier aporte que realices es muy bienvenido y apreciado! Si tienes una sugerencia para mejorar este proyecto, por favor haz un fork del repositorio y crea una pull request. También puedes simplemente abrir un issue con la etiqueta "enhancement" (mejora). 
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+¡No olvides darle una estrella ⭐ al proyecto! ¡Gracias nuevamente!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Pasos para contribuir:
+  1.  Haz un fork del proyecto
+  2.  Crea una rama para tu funcionalidad (git checkout -b feature/NuevaFuncionalidad)
+  3.  Realiza tus cambios y haz un commit (git commit -m 'Agregar nueva funcionalidad')
+  4.  Sube los cambios a tu rama (git push origin feature/NuevaFuncionalidad)
+  5.  Abre una Pull Request para revisión
 
-### Top contributors:
+
+### Colaboradores principales:
 
 <a href="https://github.com/canrosss/DrSnoopy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=canrosss/DrSnoopy" alt="contrib.rocks image" />
@@ -214,7 +215,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## Licencia
 
 Distribuido bajo los terminos de GPL-3.0. Ver `LICENSE.txt` para más información.
 
@@ -234,10 +235,11 @@ Enlaces del proyecto: [https://github.com/canrosss/DrSnoopy](https://github.com/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Agradecimientos
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Aqui encontrarás una lista de cosas geniales que te recomiendo revisar y que me fueron de gran utilidad ¡Para desarrollar este proyecto!
 
+* [Best-README Template](https://github.com/othneildrew/Best-README-Template)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
