@@ -123,12 +123,12 @@ Estas son algunas cosas necesarias para utilizar un programa hecho en Java
 
 * Java Development Kit (JDK) 8 o superior
 Para sistemas Linux (Debian/Ubuntu)
-  ```bash
+```sh
 java-version
-  ```
+```
 
 2. (Opcional) Instala la última versión de OpenJDK:
-```bash
+```sh
 sudo apt update
 sudo apt install openjdk-21-jdk
   ```
