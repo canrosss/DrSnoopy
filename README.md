@@ -32,9 +32,8 @@ Una herramienta sencilla para generar recetas medicas en PDF
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
   <a href="https://github.com/canrosss/DrSnoopy/blob/main/logo/logo4.jpeg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo/logo41.jpeg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
