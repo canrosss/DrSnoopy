@@ -136,7 +136,7 @@ sudo apt install openjdk-21-jdk
 
 ### 🍕 Instalación
 
-_A continuación se muestra un ejemplo de cómo puedes instruir a los usuarios para instalar y configurar tu aplicación. [DrSnoopy] no depende de servicios ni librerías externas.._
+_A continuación se muestra un ejemplo de cómo puedes instruir a los usuarios para instalar y configurar tu aplicación. [Dr Snoopy] no depende de servicios ni librerías externas.._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
