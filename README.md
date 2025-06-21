@@ -240,7 +240,7 @@ Enlaces del proyecto: [https://github.com/canrosss/DrSnoopy](https://github.com/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Agradecimientos
+## 🩵Agradecimientos
 
 Aqui encontrarás una lista de cosas geniales que te recomiendo revisar y que me fueron de gran utilidad ¡Para desarrollar este proyecto!
 
