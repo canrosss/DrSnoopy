@@ -126,6 +126,7 @@ Para sistemas Linux (Debian/Ubuntu)
 ```sh
 java-version
 ```
+En caso de no tener instalado java puedes obtenerlo en [Java-jdk-url]
 
 2. (Opcional) Instala la última versión de OpenJDK:
 ```sh
@@ -267,6 +268,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [Java-url]: https://www.java.com
+[Java-jdk-url]: https://www.oracle.com/java/technologies/downloads
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
