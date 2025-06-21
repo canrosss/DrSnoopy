@@ -1,7 +1,7 @@
 # DrSnoopy
 Una herramienta sencilla para generar recetas medicas en PDF
 
-<!-- Improved compatibility of back to top link: See: https://github.com/canrosss/DrSnoopy/pull/73 -->
+<!-- Improved compatibility of Volver a arriba link: See: https://github.com/canrosss/DrSnoopy/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the DrSnoopy. If you have a suggestion
@@ -106,7 +106,7 @@ Esta sección contiene los frameworks/libraries utilizados para el proyecto.
 
 * [![Java][Java]][Java-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
@@ -157,7 +157,7 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
@@ -168,24 +168,24 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
+- [x] Crear ReadMe
+- [x] Arreglar links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
+    - [ ] English
     - [ ] Spanish
 
 See the [open issues](https://github.com/canrosss/DrSnoopy/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
@@ -209,27 +209,27 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=canrosss/DrSnoopy" alt="contrib.rocks image" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+Distribuido bajo los terminos de GPL-3.0. Ver `LICENSE.txt` para más información.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Canros [@your_twitter](https://x.com/canrosss) - canros.mx@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Enlaces del proyecto: [https://github.com/canrosss/DrSnoopy](https://github.com/canrosss/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
@@ -247,11 +247,12 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver a arriba</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN IMAGES https://github.com/Ileriayo/markdown-badges --> 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/canrosss/DrSnoopy.svg?style=for-the-badge
 [contributors-url]: https://github.com/canrosss/DrSnoopy/graphs/contributors
