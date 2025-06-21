@@ -134,9 +134,9 @@ sudo apt update
 sudo apt install openjdk-21-jdk
   ```
 
-### Installation
+### 🍕 Instalación
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_A continuación se muestra un ejemplo de cómo puedes instruir a los usuarios para instalar y configurar tu aplicación. [DrSnoopy] no depende de servicios ni librerías externas.._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -256,6 +256,7 @@ Aqui encontrarás una lista de cosas geniales que te recomiendo revisar y que me
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- MARKDOWN IMAGES https://github.com/Ileriayo/markdown-badges --> 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Dr Snoopy]: https://github.com/canrosss/DrSnoopy
 [contributors-shield]: https://img.shields.io/github/contributors/canrosss/DrSnoopy.svg?style=for-the-badge
 [contributors-url]: https://github.com/canrosss/DrSnoopy/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/canrosss/DrSnoopy.svg?style=for-the-badge
